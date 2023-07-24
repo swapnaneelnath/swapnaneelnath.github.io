@@ -1,6 +1,0 @@
-baseURL = 'swapnaneelnath.net'
-languageCode = 'en-us'
-title = 'BITMONCHAN'
-
-theme = 'lugo'
-enableEmoji = true
