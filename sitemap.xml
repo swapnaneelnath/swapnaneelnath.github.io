@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>bitmonchan.com/mascot/</loc>
+    <loc>https://bitmonchan.com/mascot/</loc>
     <lastmod>2023-07-21T04:18:02-05:00</lastmod>
   </url><url>
-    <loc>bitmonchan.com/about/</loc>
+    <loc>https://bitmonchan.com/about/</loc>
     <lastmod>2023-07-21T03:57:04-05:00</lastmod>
   </url><url>
-    <loc>bitmonchan.com/</loc>
+    <loc>https://bitmonchan.com/</loc>
   </url><url>
-    <loc>bitmonchan.com/categories/</loc>
+    <loc>https://bitmonchan.com/categories/</loc>
   </url><url>
-    <loc>bitmonchan.com/tags/</loc>
+    <loc>https://bitmonchan.com/tags/</loc>
   </url>
 </urlset>
