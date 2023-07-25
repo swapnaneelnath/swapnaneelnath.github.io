@@ -1,6 +1,0 @@
-baseURL = 'https://bitmonchan.com/'
-languageCode = 'en-us'
-title = 'Bitmonchan'
-
-theme = 'lugo'
-enableEmoji = true
