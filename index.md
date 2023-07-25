@@ -1,14 +1,16 @@
 # SWAPNANEEL NATH
 
-## Drury University
+## Drury University (2013-17)
 
-Economics BBA, Mathematics BA, Summa Cum Laude, 2017
+* Economics BBA
+* Mathematics BA
+* Summa Cum Laude 
 
-## University of Arkansas &mdash; Fayetteville
+## University of Arkansas &mdash; Fayetteville (2021-23)
 
-Statistics MS, 2023
-Thesis: Comparing Predictive Performance of GARCH and Stochastic Volatility Models
-Data Analyst at Division of Economic Development, University of Arkansas
-Research Associate, Stephens
+* Statistics MS
+* Thesis: Comparing Predictive Performance of GARCH and Stochastic Volatility Models. Advisor: Dr. Giovanni Petris
+* Data Analyst at Division of Economic Development, University of Arkansas
+
 
 
